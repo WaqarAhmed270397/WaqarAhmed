@@ -1,0 +1,2 @@
+ironsrc.com, 1234, DIRECT, 5678
+google.com, pub-3767008075387394, DIRECT, f08c47fec0942fa0
